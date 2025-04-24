@@ -1,0 +1,19 @@
+body {
+    background-image: url(assets/fondo.jpg); 
+    color: #ffffff;
+}
+
+
+.título{
+    background-color: rgb(40, 44, 110);
+    font-size: 40px;
+    text-align: center;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+    margin: 25px 25px 25px 25px;
+    padding: 25px 25px 25px 25px;
+}
